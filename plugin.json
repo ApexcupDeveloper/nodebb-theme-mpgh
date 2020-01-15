@@ -28,7 +28,7 @@
 		}
 	],
 	"scripts": [
-		"lib/slick.js",
+		"lib/mpgh.js",
 		"lib/modules/slideout.min.js",
 		"lib/chats.js",
 		"lib/quickreply.js"
