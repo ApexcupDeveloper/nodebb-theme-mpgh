@@ -1,0 +1,32 @@
+{
+  "name": "nodebb-theme-mpgh",
+  "version": "1.2.28",
+  "nbbpm": {
+    "compatibility": "^1.11.0"
+  },
+  "description": "Mpgh theme for NodeBB",
+  "main": "theme.less",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apexcupdeveloper/nodebb-theme-mpgh.git"
+  },
+  "keywords": [
+    "nodebb",
+    "mpgh",
+    "theme",
+    "themes"
+  ],
+  "author": {
+    "name": "apexcup",
+    "email": "apexcup@outlook.com"
+  },
+  "bugs": {
+    "url": "https://github.com/apexcupdeveloper/nodebb-theme-mpgh/issues"
+  },
+  "maintainers": [
+    {
+      "name": "apexcup",
+      "email": "apexcup@outlook.com"
+    }
+  ]
+}
